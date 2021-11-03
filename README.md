@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah Malik
-- 👀 I’m interested in Web and App Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on beginner web development tasks
 - 📫 How to reach me abdullahmalik15111@gmail.com
