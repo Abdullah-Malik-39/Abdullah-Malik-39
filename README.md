@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abdullah Malik
-- 🌱 I’m a JAVA Developer
+- 🌱 I’m a JAVA Developer and FreeLancer
 - 💞️ Always looking for challenging DSA Tasks
 - 📫 How to reach me abdullahmalik15111@gmail.com
